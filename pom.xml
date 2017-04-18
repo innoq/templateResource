@@ -12,6 +12,14 @@
   <description>Externalize query templates and provide access to them via a map-interface</description>
   <url>https://github.com/innoq/templateResource</url>
 
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

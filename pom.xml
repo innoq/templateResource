@@ -30,6 +30,12 @@
     <system>GitHub Issues</system>
   </issueManagement>
 
+  <scm>
+    <connection>scm:git:https://github.com/innoq/templateResource.git</connection>
+    <developerConnection>scm:git:git@github.com:innoq/templateResource.git</developerConnection>
+    <url>https://github.com/innoq/templateResource</url>
+  </scm>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

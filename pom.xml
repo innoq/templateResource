@@ -9,6 +9,8 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>innoQ Query Template Resource Lib</name>
+  <description>Externalize query templates and provide access to them via a map-interface</description>
+  <url>https://github.com/innoq/templateResource</url>
 
   <dependencies>
     <dependency>

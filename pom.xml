@@ -25,6 +25,11 @@
     <url>https://innoq.com</url>
   </organization>
 
+  <issueManagement>
+    <url>https://github.com/innoq/templateResource/issues</url>
+    <system>GitHub Issues</system>
+  </issueManagement>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

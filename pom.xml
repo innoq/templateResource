@@ -136,6 +136,8 @@
               <licenseSet>
                 <excludes>
                   <exclude>.editorconfig</exclude>
+                  <exclude>.mvn/**</exclude>
+                  <exclude>mvnw*</exclude>
                   <!-- TODO: remove once the parser ignores file comments -->
                   <exclude>res/test/test_queries.sql</exclude>
                 </excludes>

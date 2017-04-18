@@ -20,6 +20,11 @@
     </license>
   </licenses>
 
+  <organization>
+    <name>innoQ Deutschland GmbH</name>
+    <url>https://innoq.com</url>
+  </organization>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
